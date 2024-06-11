@@ -1,4 +1,4 @@
-#  Análise Preditiva de Doenças Cardíacas: Um Estudo com Machine Learning
+#  Análise de Doenças Cardíacas
 Doenças cardíacas são a principal causa de morte no mundo. A detecção precoce é fundamental para salvar vidas. Neste estudo, utilizamos o poder do aprendizado de máquina para desenvolver um modelo capaz de prever o risco de doenças cardíacas em indivíduos, analisando informações médicas relevantes. Nosso objetivo é fornecer aos profissionais da saúde uma ferramenta inovadora para identificar pacientes em risco e promover intervenções preventivas.
 
 ## 1. Coleta de Dados
